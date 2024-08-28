@@ -42,7 +42,6 @@ const rest = new REST({version: '10'}).setToken(token);                 //create
     }
 })();
 
-    //global commands to be use in ANY server
-    //make another rest with applicationGUILDcommands for guild-only commands
+    //global commands to be use in private server
+    //make another rest with applicationcommands for global commands to be used in any server
 
-// "guildid": "193875933654941696" - test server id
