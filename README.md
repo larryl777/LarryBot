@@ -1,5 +1,5 @@
 # LarryBot
-**Currently Working On This Project as of September 2, 2024**
+
 
 
 Personal Utility Discord Bot made with JavaScript and Node.js
